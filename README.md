@@ -7,3 +7,6 @@ In the web application braking distance of f1 and ordinary car is calculated bas
 FORMULA FOR CALCULATION
 **Stopping distance of f1 = Velocityf1*(1000/3600))^2 / (2*Coeff1*9.8*G) + (Velocityf1*reaction_timef1))** remove g in the formula for ordinary car
 
+
+# link to shiny web application
+(https://harsha1.shinyapps.io/Braking_distance_of_Formula1_car_vs_Ordinary_car/?_ga=2.1994418.2044553410.1608645372-877409014.1608645372)
